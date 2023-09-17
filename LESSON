@@ -1,4 +1,2 @@
-print("=")
-print("/\"")
+print("(_)")
 print(")(")
-print("[_]")
